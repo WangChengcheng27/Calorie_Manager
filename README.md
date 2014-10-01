@@ -1,0 +1,1 @@
+This is an Android app which can help people calculater the sum of energy they take in everyday and provide the recommanded meals for users according to their profiles, such as current weight, health status and ideal figure.
